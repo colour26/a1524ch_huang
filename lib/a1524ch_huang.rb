@@ -1,5 +1,6 @@
-require "a1524ch_huang/version"
-
-module A1524chHuang
-  # Your code goes here...
+class Bundle
+  def abc.hi
+    puts "Hello AIIT and World!"
+  end
 end
+
